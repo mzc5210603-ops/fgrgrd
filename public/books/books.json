@@ -1356,6 +1356,20 @@
     "readType": "iframe"
   },
   {
+    "id": "ia-heianchomonogata00takeuoft",
+    "title": "Heian-cho monogatari shu",
+    "author": "Takekasa, Hifumi",
+    "description": "11...",
+    "cover": "https://archive.org/services/img/heianchomonogata00takeuoft",
+    "downloadUrl": "https://archive.org/download/heianchomonogata00takeuoft/heianchomonogata00takeuoft.epub",
+    "category": "fiction",
+    "language": "ja",
+    "publisher": "Internet Archive",
+    "publishDate": "1913-01-01",
+    "source": "Internet Archive - Japanese Fiction",
+    "epubUrl": "https://archive.org/download/heianchomonogata00takeuoft/heianchomonogata00takeuoft.epub"
+  },
+  {
     "id": "ia-hellscreenjigoku0000akut",
     "title": "Hell screen (\"Jigoku hen\") and other stories",
     "author": "Akutagawa, Ryūnosuke, 1892-1927",
@@ -2879,19 +2893,5 @@
     "publishDate": "1988-01-01",
     "source": "Internet Archive - Children",
     "epubUrl": "https://archive.org/download/CAT92970475/CAT92970475.epub"
-  },
-  {
-    "id": "ia-waroftherevolution00recorich",
-    "title": "Record of service of Connecticut men in the I. War of the Revolution, II. War of 1812, III. Mexican War",
-    "author": "Connecticut. Adjutant-General's Office, Johnston, Henry Phelps, 1842-1923",
-    "description": "xvii, 779, 180 p. ; 31 cm Half title: Connecticut military record, 1775-1848 Spine title: Record of Connecticut men in the War of Revolution, War of 1812, and War with Mexico On t.p., pt. 1: Edited by Henry P. Johnston Includes indexes...",
-    "cover": "https://archive.org/services/img/waroftherevolution00recorich",
-    "downloadUrl": "https://archive.org/download/waroftherevolution00recorich/waroftherevolution00recorich.epub",
-    "category": "history",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "1889-01-01",
-    "source": "Internet Archive - History",
-    "epubUrl": "https://archive.org/download/waroftherevolution00recorich/waroftherevolution00recorich.epub"
   }
 ]
