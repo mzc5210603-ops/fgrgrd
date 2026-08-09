@@ -203,6 +203,20 @@
     "readType": "iframe"
   },
   {
+    "id": "ia-taleoffloweringf0000unse",
+    "title": "A tale of flowering fortunes : annals of Japanese aristocratic life in the Heian period",
+    "author": "Unknown",
+    "description": "2 v. (xv, 910 p.) : 25 cm Translation of Eiga monogatari Bibliography: p. [855]-864 Includes index...",
+    "cover": "https://archive.org/services/img/taleoffloweringf0000unse",
+    "downloadUrl": "https://archive.org/download/taleoffloweringf0000unse/taleoffloweringf0000unse.epub",
+    "category": "fiction",
+    "language": "ja",
+    "publisher": "Internet Archive",
+    "publishDate": "1980-01-01",
+    "source": "Internet Archive - Japanese Fiction",
+    "epubUrl": "https://archive.org/download/taleoffloweringf0000unse/taleoffloweringf0000unse.epub"
+  },
+  {
     "id": "gutenberg-98",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
@@ -2879,19 +2893,5 @@
     "publishDate": "1958-01-01",
     "source": "Internet Archive - Philosophy",
     "epubUrl": "https://archive.org/download/psychologyunders033255mbp/psychologyunders033255mbp.epub"
-  },
-  {
-    "id": "ia-CAT92970475",
-    "title": "Quantity recipes for school food service",
-    "author": "United States. Food and Nutrition Service. Nutrition and Technical Services Division",
-    "description": "Cover title \"This publication supersedes Program aid no. 631, Quantity recipes for type A school lunches, revised August 1971\"--P. [2] of cover \"April 1988\"--P. [2] of cover \"Recipe development and standardization completed under FNS contracts nos. 53-3198-5-8 and 53-3198-5-44\"--P. [2] of cover This publication contains quantity recipes and other information useful to food service personnel to prepare meals in schools participating in the National School Lunch Program (NSLP). Recipes are general...",
-    "cover": "https://archive.org/services/img/CAT92970475",
-    "downloadUrl": "https://archive.org/download/CAT92970475/CAT92970475.epub",
-    "category": "children",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "1988-01-01",
-    "source": "Internet Archive - Children",
-    "epubUrl": "https://archive.org/download/CAT92970475/CAT92970475.epub"
   }
 ]
