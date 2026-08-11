@@ -1710,6 +1710,20 @@
     "readType": "iframe"
   },
   {
+    "id": "ia-kokoronovel000nats",
+    "title": "Kokoro : a novel",
+    "author": "Natsume, Sōseki, 1867-1916",
+    "description": "Fiction Translation of: Kokoro...",
+    "cover": "https://archive.org/services/img/kokoronovel000nats",
+    "downloadUrl": "https://archive.org/download/kokoronovel000nats/kokoronovel000nats.epub",
+    "category": "fiction",
+    "language": "ja",
+    "publisher": "Internet Archive",
+    "publishDate": "1985-01-01",
+    "source": "Internet Archive - Japanese Fiction",
+    "epubUrl": "https://archive.org/download/kokoronovel000nats/kokoronovel000nats.epub"
+  },
+  {
     "id": "ia-konbininingen0000mura",
     "title": "Konbini ningen",
     "author": "Murata, Sayaka, 1979- author",
@@ -2879,19 +2893,5 @@
     "source": "Project Gutenberg",
     "readUrl": "https://www.gutenberg.org/ebooks/1342",
     "readType": "iframe"
-  },
-  {
-    "id": "ia-psychologyunders033255mbp",
-    "title": "Psychology Understanding Human Behavior",
-    "author": "Quinn Sartain Aaron., John,North Alvin., Roy Strange Jack.",
-    "description": "",
-    "cover": "https://archive.org/services/img/psychologyunders033255mbp",
-    "downloadUrl": "https://archive.org/download/psychologyunders033255mbp/psychologyunders033255mbp.epub",
-    "category": "philosophy",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "1958-01-01",
-    "source": "Internet Archive - Philosophy",
-    "epubUrl": "https://archive.org/download/psychologyunders033255mbp/psychologyunders033255mbp.epub"
   }
 ]
