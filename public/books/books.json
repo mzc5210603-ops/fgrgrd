@@ -2572,6 +2572,20 @@
     "epubUrl": "https://archive.org/download/PopularMechanics1930/PopularMechanics1930.epub"
   },
   {
+    "id": "ia-PopularMechanics1931",
+    "title": "Popular Mechanics ~ 1931",
+    "author": "Unknown",
+    "description": "Popular Mechanics ~ 1931...",
+    "cover": "https://archive.org/services/img/PopularMechanics1931",
+    "downloadUrl": "https://archive.org/download/PopularMechanics1931/PopularMechanics1931.epub",
+    "category": "classic",
+    "language": "en",
+    "publisher": "Internet Archive",
+    "publishDate": "",
+    "source": "Internet Archive - Popular English",
+    "epubUrl": "https://archive.org/download/PopularMechanics1931/PopularMechanics1931.epub"
+  },
+  {
     "id": "ia-PopularMechanics1932",
     "title": "Popular Mechanics ~ 1932",
     "author": "Unknown",
@@ -2878,19 +2892,5 @@
     "publishDate": "",
     "source": "Internet Archive - Popular English",
     "epubUrl": "https://archive.org/download/PopularMechanicsCompleteCarCareManual/PopularMechanicsCompleteCarCareManual.epub"
-  },
-  {
-    "id": "ia-PrathamBooks",
-    "title": "Pratham Books",
-    "author": "Pratham Books",
-    "description": "40 Children's picture books. A sample of Creative Commons (cc-by) children's books from Pratham Books in India. Suitable for ages 5-10. Each book is 15-30 pages long. Hi-res english versions or 11 different Indian language versions available at the publishers website. Original publisher: http://prathambooks.org/...",
-    "cover": "https://archive.org/services/img/PrathamBooks",
-    "downloadUrl": "https://archive.org/download/PrathamBooks/PrathamBooks.epub",
-    "category": "children",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "2010-01-01",
-    "source": "Internet Archive - Children",
-    "epubUrl": "https://archive.org/download/PrathamBooks/PrathamBooks.epub"
   }
 ]
