@@ -2207,6 +2207,20 @@
     "epubUrl": "https://archive.org/download/chem11/chem11.epub"
   },
   {
+    "id": "ia-neuromancer_202209",
+    "title": "Neuromancer by William Gibson",
+    "author": "William Gibson",
+    "description": "\" The sky above the port was the color of television, tuned to a dead channel.\" Winner of the Hugo, Nebula, and Philip K. Dick Awards, Neuromancer is a science fiction masterpiece—a classic that ranks as one of the twentieth century’s most potent visions of the future. Case was the sharpest data-thief in the matrix—until he crossed the wrong people and they crippled his nervous system, banishing him from cyberspace. Now a mysterious new employer has recruited him for a last-chance run at an unth...",
+    "cover": "https://archive.org/services/img/neuromancer_202209",
+    "downloadUrl": "https://archive.org/download/neuromancer_202209/neuromancer_202209.epub",
+    "category": "science",
+    "language": "en",
+    "publisher": "Internet Archive",
+    "publishDate": "1984-01-01",
+    "source": "Internet Archive - Science",
+    "epubUrl": "https://archive.org/download/neuromancer_202209/neuromancer_202209.epub"
+  },
+  {
     "id": "gutenberg-730",
     "title": "Nicholas Nickleby",
     "author": "Charles Dickens",
@@ -2878,19 +2892,5 @@
     "publishDate": "",
     "source": "Internet Archive - Popular English",
     "epubUrl": "https://archive.org/download/PopularMechanics1956/PopularMechanics1956.epub"
-  },
-  {
-    "id": "ia-PopularMechanicsCompleteCarCareManual",
-    "title": "Popular Mechanics Complete Car Care Manual",
-    "author": "Unknown",
-    "description": "",
-    "cover": "https://archive.org/services/img/PopularMechanicsCompleteCarCareManual",
-    "downloadUrl": "https://archive.org/download/PopularMechanicsCompleteCarCareManual/PopularMechanicsCompleteCarCareManual.epub",
-    "category": "classic",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "",
-    "source": "Internet Archive - Popular English",
-    "epubUrl": "https://archive.org/download/PopularMechanicsCompleteCarCareManual/PopularMechanicsCompleteCarCareManual.epub"
   }
 ]
