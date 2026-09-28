@@ -2740,6 +2740,20 @@
     "epubUrl": "https://archive.org/download/PopularMechanics1941/PopularMechanics1941.epub"
   },
   {
+    "id": "ia-PopularMechanics1943",
+    "title": "Popular Mechanics ~ 1943",
+    "author": "Unknown",
+    "description": "Popular Mechanics ~ 1943...",
+    "cover": "https://archive.org/services/img/PopularMechanics1943",
+    "downloadUrl": "https://archive.org/download/PopularMechanics1943/PopularMechanics1943.epub",
+    "category": "classic",
+    "language": "en",
+    "publisher": "Internet Archive",
+    "publishDate": "",
+    "source": "Internet Archive - Popular English",
+    "epubUrl": "https://archive.org/download/PopularMechanics1943/PopularMechanics1943.epub"
+  },
+  {
     "id": "ia-PopularMechanics1945",
     "title": "Popular Mechanics ~ 1945",
     "author": "Unknown",
@@ -2878,19 +2892,5 @@
     "publishDate": "",
     "source": "Internet Archive - Popular English",
     "epubUrl": "https://archive.org/download/PopularMechanics1955/PopularMechanics1955.epub"
-  },
-  {
-    "id": "ia-PopularMechanics1956",
-    "title": "Popular Mechanics ~ 1956",
-    "author": "Unknown",
-    "description": "Popular Mechanics ~ 1956...",
-    "cover": "https://archive.org/services/img/PopularMechanics1956",
-    "downloadUrl": "https://archive.org/download/PopularMechanics1956/PopularMechanics1956.epub",
-    "category": "classic",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "",
-    "source": "Internet Archive - Popular English",
-    "epubUrl": "https://archive.org/download/PopularMechanics1956/PopularMechanics1956.epub"
   }
 ]
