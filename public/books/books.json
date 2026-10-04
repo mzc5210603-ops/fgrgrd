@@ -1017,6 +1017,20 @@
     "readType": "iframe"
   },
   {
+    "id": "ia-Ambedkar_CompleteWorks",
+    "title": "Dr. B.R Ambedkar_CompleteWorks_Created by Dr. Anand Teltumbde",
+    "author": "Dr. B.R Ambedkar",
+    "description": "Dr. B.R Ambedkar's Complete Works, created by Dr. Anand Teltumbde and compiled by Mr. Chakradhar Hadke....",
+    "cover": "https://archive.org/services/img/Ambedkar_CompleteWorks",
+    "downloadUrl": "https://archive.org/download/Ambedkar_CompleteWorks/Ambedkar_CompleteWorks.epub",
+    "category": "history",
+    "language": "en",
+    "publisher": "Internet Archive",
+    "publishDate": "2013-01-01",
+    "source": "Internet Archive - History",
+    "epubUrl": "https://archive.org/download/Ambedkar_CompleteWorks/Ambedkar_CompleteWorks.epub"
+  },
+  {
     "id": "gutenberg-345",
     "title": "Dracula",
     "author": "Bram Stoker",
@@ -2878,19 +2892,5 @@
     "publishDate": "",
     "source": "Internet Archive - Popular English",
     "epubUrl": "https://archive.org/download/PopularMechanics1954/PopularMechanics1954.epub"
-  },
-  {
-    "id": "ia-PopularMechanics1955",
-    "title": "Popular Mechanics ~ 1955",
-    "author": "Unknown",
-    "description": "Popular Mechanics ~ 1955...",
-    "cover": "https://archive.org/services/img/PopularMechanics1955",
-    "downloadUrl": "https://archive.org/download/PopularMechanics1955/PopularMechanics1955.epub",
-    "category": "classic",
-    "language": "en",
-    "publisher": "Internet Archive",
-    "publishDate": "",
-    "source": "Internet Archive - Popular English",
-    "epubUrl": "https://archive.org/download/PopularMechanics1955/PopularMechanics1955.epub"
   }
 ]
